@@ -1,6 +1,3 @@
-# Sybil-Attack-Detection
-Sybil attack is a security threat where attackers can create multiple fake identities. To prevent this attack I am introducing you a hybrid deep learning based detection model.
-
 # Sybil Attack Detection using CNN + RNN
 
 This project presents a deep learning-based approach for detecting Sybil attacks in blockchain or distributed network environments using a hybrid model that combines Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN).
